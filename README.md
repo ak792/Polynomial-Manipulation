@@ -1,11 +1,6 @@
 Polynomials
 
-Linked-list implementation of polynomials. Allows for various operations, including:
-    Addition
-    Subtraction
-    Multiplication
-    Exponent
-    Modulus
+Linked-list implementation of polynomials. Allows for various operations, including addition, subtraction, multiplication, exponentiation, and modulus.
     
 To run, simply add the three files Main.cpp, Polynomial.h, and Polynomial.cpp to the same project and hit run.
 
